@@ -1,0 +1,16 @@
+{
+  "name": "flowise-proxy-server",
+  "version": "1.0.0",
+  "description": "A proxy server for Flowise chatbot integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
